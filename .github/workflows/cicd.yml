@@ -20,6 +20,3 @@ jobs:
 
       - name: Run tests on the main Python file
         run: make test
-      
-      - name: Generate reports on the run
-        run: make generate
